@@ -11,4 +11,4 @@ Código Python y Tensorflow de los modelos CNN para identificar las enfermedades
 | Model 3: Xception  | 94.55  |	0.2058  |			
 			
 ## The data set used
-Data set consisting of 4 categories of cassava leaf diseases and a category of healthy leaves
+[Data set consisting of 4 categories of cassava leaf diseases and a category of healthy leaves](https://www.kaggle.com/disonant/cassava-diseases-balanced/metadata)
